@@ -7,6 +7,6 @@ def reverse_each_word(string)
   new_arr.join(" ")
 end
 
-def reverse_each_word
+def reverse_each_word(string)
 
 end
